@@ -42,6 +42,7 @@ A curated list of **Open Source Intelligence (OSINT)** tools for researchers, et
 | Tool | Description | Link |
 |------|-------------|------|
 | [Twint](https://github.com/twintproject/twint) | Twitter scraping without API | https://github.com/twintproject/twint |
+| [twtData](https://twtdata.com/) | Export X followers, tweets and lists to CSV | https://twtdata.com/ |
 | [Metadefender Cloud](https://metadefender.opswat.com/) | File and link scanner | https://metadefender.opswat.com/ |
 
 ---
